@@ -1,0 +1,1004 @@
+{
+    "Content": [
+        {
+            "Record#": 1,
+            "RecorderID": 1,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 233,
+                "temperature": 24,
+                "mouvement": 10815
+            }
+        },
+        {
+            "Record#": 2,
+            "RecorderID": 2,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 160,
+                "temperature": 19,
+                "mouvement": 6939
+            }
+        },
+        {
+            "Record#": 3,
+            "RecorderID": 3,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 190,
+                "temperature": 23,
+                "mouvement": 9417
+            }
+        },
+        {
+            "Record#": 4,
+            "RecorderID": 4,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 202,
+                "temperature": 21,
+                "mouvement": 10175
+            }
+        },
+        {
+            "Record#": 5,
+            "RecorderID": 5,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 154,
+                "temperature": 22,
+                "mouvement": 12364
+            }
+        },
+        {
+            "Record#": 6,
+            "RecorderID": 6,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 284,
+                "temperature": 23,
+                "mouvement": 9973
+            }
+        },
+        {
+            "Record#": 7,
+            "RecorderID": 7,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 239,
+                "temperature": 23,
+                "mouvement": 9851
+            }
+        },
+        {
+            "Record#": 8,
+            "RecorderID": 8,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 183,
+                "temperature": 19,
+                "mouvement": 8618
+            }
+        },
+        {
+            "Record#": 9,
+            "RecorderID": 9,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 243,
+                "temperature": 23,
+                "mouvement": 7973
+            }
+        },
+        {
+            "Record#": 10,
+            "RecorderID": 10,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 179,
+                "temperature": 23,
+                "mouvement": 11229
+            }
+        },
+        {
+            "Record#": 11,
+            "RecorderID": 11,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 118,
+                "temperature": 22,
+                "mouvement": 6601
+            }
+        },
+        {
+            "Record#": 12,
+            "RecorderID": 12,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 113,
+                "temperature": 21,
+                "mouvement": 8642
+            }
+        },
+        {
+            "Record#": 13,
+            "RecorderID": 13,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 124,
+                "temperature": 20,
+                "mouvement": 11104
+            }
+        },
+        {
+            "Record#": 14,
+            "RecorderID": 14,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 199,
+                "temperature": 19,
+                "mouvement": 10645
+            }
+        },
+        {
+            "Record#": 15,
+            "RecorderID": 15,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 205,
+                "temperature": 21,
+                "mouvement": 11400
+            }
+        },
+        {
+            "Record#": 16,
+            "RecorderID": 16,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 190,
+                "temperature": 20,
+                "mouvement": 11327
+            }
+        },
+        {
+            "Record#": 17,
+            "RecorderID": 17,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 122,
+                "temperature": 19,
+                "mouvement": 8332
+            }
+        },
+        {
+            "Record#": 18,
+            "RecorderID": 18,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 233,
+                "temperature": 19,
+                "mouvement": 10502
+            }
+        },
+        {
+            "Record#": 19,
+            "RecorderID": 19,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 226,
+                "temperature": 21,
+                "mouvement": 9173
+            }
+        },
+        {
+            "Record#": 20,
+            "RecorderID": 20,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 139,
+                "temperature": 21,
+                "mouvement": 8422
+            }
+        },
+        {
+            "Record#": 21,
+            "RecorderID": 21,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 144,
+                "temperature": 19,
+                "mouvement": 10066
+            }
+        },
+        {
+            "Record#": 22,
+            "RecorderID": 22,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 270,
+                "temperature": 19,
+                "mouvement": 7005
+            }
+        },
+        {
+            "Record#": 23,
+            "RecorderID": 23,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 166,
+                "temperature": 24,
+                "mouvement": 8034
+            }
+        },
+        {
+            "Record#": 24,
+            "RecorderID": 24,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 160,
+                "temperature": 24,
+                "mouvement": 8936
+            }
+        },
+        {
+            "Record#": 25,
+            "RecorderID": 25,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 195,
+                "temperature": 23,
+                "mouvement": 12348
+            }
+        },
+        {
+            "Record#": 26,
+            "RecorderID": 26,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 242,
+                "temperature": 24,
+                "mouvement": 8023
+            }
+        },
+        {
+            "Record#": 27,
+            "RecorderID": 27,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 231,
+                "temperature": 20,
+                "mouvement": 11785
+            }
+        },
+        {
+            "Record#": 28,
+            "RecorderID": 28,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 204,
+                "temperature": 22,
+                "mouvement": 8122
+            }
+        },
+        {
+            "Record#": 29,
+            "RecorderID": 29,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 182,
+                "temperature": 20,
+                "mouvement": 7834
+            }
+        },
+        {
+            "Record#": 30,
+            "RecorderID": 30,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 182,
+                "temperature": 21,
+                "mouvement": 9925
+            }
+        },
+        {
+            "Record#": 31,
+            "RecorderID": 31,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 330,
+                "temperature": 24,
+                "mouvement": 7381
+            }
+        },
+        {
+            "Record#": 32,
+            "RecorderID": 32,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 206,
+                "temperature": 21,
+                "mouvement": 8429
+            }
+        },
+        {
+            "Record#": 33,
+            "RecorderID": 33,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 282,
+                "temperature": 22,
+                "mouvement": 8823
+            }
+        },
+        {
+            "Record#": 34,
+            "RecorderID": 34,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 404,
+                "temperature": 24,
+                "mouvement": 6207
+            }
+        },
+        {
+            "Record#": 35,
+            "RecorderID": 35,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 427,
+                "temperature": 21,
+                "mouvement": 7884
+            }
+        },
+        {
+            "Record#": 36,
+            "RecorderID": 36,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 264,
+                "temperature": 19,
+                "mouvement": 9107
+            }
+        },
+        {
+            "Record#": 37,
+            "RecorderID": 37,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 321,
+                "temperature": 24,
+                "mouvement": 5064
+            }
+        },
+        {
+            "Record#": 38,
+            "RecorderID": 38,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 326,
+                "temperature": 22,
+                "mouvement": 6020
+            }
+        },
+        {
+            "Record#": 39,
+            "RecorderID": 39,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 470,
+                "temperature": 23,
+                "mouvement": 7317
+            }
+        },
+        {
+            "Record#": 40,
+            "RecorderID": 40,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 464,
+                "temperature": 22,
+                "mouvement": 7895
+            }
+        },
+        {
+            "Record#": 41,
+            "RecorderID": 41,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 221,
+                "temperature": 23,
+                "mouvement": 6874
+            }
+        },
+        {
+            "Record#": 42,
+            "RecorderID": 42,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 209,
+                "temperature": 22,
+                "mouvement": 5392
+            }
+        },
+        {
+            "Record#": 43,
+            "RecorderID": 43,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 290,
+                "temperature": 24,
+                "mouvement": 6030
+            }
+        },
+        {
+            "Record#": 44,
+            "RecorderID": 44,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 406,
+                "temperature": 20,
+                "mouvement": 6367
+            }
+        },
+        {
+            "Record#": 45,
+            "RecorderID": 45,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 318,
+                "temperature": 22,
+                "mouvement": 6092
+            }
+        },
+        {
+            "Record#": 46,
+            "RecorderID": 46,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 234,
+                "temperature": 24,
+                "mouvement": 9497
+            }
+        },
+        {
+            "Record#": 47,
+            "RecorderID": 47,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 437,
+                "temperature": 20,
+                "mouvement": 6917
+            }
+        },
+        {
+            "Record#": 48,
+            "RecorderID": 48,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 345,
+                "temperature": 22,
+                "mouvement": 8719
+            }
+        },
+        {
+            "Record#": 49,
+            "RecorderID": 49,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 499,
+                "temperature": 22,
+                "mouvement": 6550
+            }
+        },
+        {
+            "Record#": 50,
+            "RecorderID": 50,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 201,
+                "temperature": 24,
+                "mouvement": 9765
+            }
+        },
+        {
+            "Record#": 51,
+            "RecorderID": 51,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 312,
+                "temperature": 23,
+                "mouvement": 8104
+            }
+        },
+        {
+            "Record#": 52,
+            "RecorderID": 52,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 209,
+                "temperature": 19,
+                "mouvement": 6386
+            }
+        },
+        {
+            "Record#": 53,
+            "RecorderID": 53,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 426,
+                "temperature": 21,
+                "mouvement": 8721
+            }
+        },
+        {
+            "Record#": 54,
+            "RecorderID": 54,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 328,
+                "temperature": 21,
+                "mouvement": 9923
+            }
+        },
+        {
+            "Record#": 55,
+            "RecorderID": 55,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 261,
+                "temperature": 23,
+                "mouvement": 5093
+            }
+        },
+        {
+            "Record#": 56,
+            "RecorderID": 56,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 405,
+                "temperature": 22,
+                "mouvement": 6780
+            }
+        },
+        {
+            "Record#": 57,
+            "RecorderID": 57,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 447,
+                "temperature": 24,
+                "mouvement": 5352
+            }
+        },
+        {
+            "Record#": 58,
+            "RecorderID": 58,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 449,
+                "temperature": 20,
+                "mouvement": 8545
+            }
+        },
+        {
+            "Record#": 59,
+            "RecorderID": 59,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 359,
+                "temperature": 19,
+                "mouvement": 8884
+            }
+        },
+        {
+            "Record#": 60,
+            "RecorderID": 60,
+            "ExpectedType": "anxieux",
+            "data": {
+                "luminosite": 372,
+                "temperature": 24,
+                "mouvement": 5854
+            }
+        },
+        {
+            "Record#": 61,
+            "RecorderID": 61,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 192,
+                "temperature": 17,
+                "mouvement": 2444
+            }
+        },
+        {
+            "Record#": 62,
+            "RecorderID": 62,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 270,
+                "temperature": 20,
+                "mouvement": 2019
+            }
+        },
+        {
+            "Record#": 63,
+            "RecorderID": 63,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 285,
+                "temperature": 20,
+                "mouvement": 7027
+            }
+        },
+        {
+            "Record#": 64,
+            "RecorderID": 64,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 173,
+                "temperature": 19,
+                "mouvement": 4100
+            }
+        },
+        {
+            "Record#": 65,
+            "RecorderID": 65,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 163,
+                "temperature": 18,
+                "mouvement": 1320
+            }
+        },
+        {
+            "Record#": 66,
+            "RecorderID": 66,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 154,
+                "temperature": 20,
+                "mouvement": 4556
+            }
+        },
+        {
+            "Record#": 67,
+            "RecorderID": 67,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 253,
+                "temperature": 17,
+                "mouvement": 7430
+            }
+        },
+        {
+            "Record#": 68,
+            "RecorderID": 68,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 167,
+                "temperature": 17,
+                "mouvement": 4527
+            }
+        },
+        {
+            "Record#": 69,
+            "RecorderID": 69,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 232,
+                "temperature": 19,
+                "mouvement": 6105
+            }
+        },
+        {
+            "Record#": 70,
+            "RecorderID": 70,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 130,
+                "temperature": 19,
+                "mouvement": 106
+            }
+        },
+        {
+            "Record#": 71,
+            "RecorderID": 71,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 248,
+                "temperature": 16,
+                "mouvement": 7005
+            }
+        },
+        {
+            "Record#": 72,
+            "RecorderID": 72,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 223,
+                "temperature": 18,
+                "mouvement": 3616
+            }
+        },
+        {
+            "Record#": 73,
+            "RecorderID": 73,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 234,
+                "temperature": 19,
+                "mouvement": 1001
+            }
+        },
+        {
+            "Record#": 74,
+            "RecorderID": 74,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 274,
+                "temperature": 16,
+                "mouvement": 2026
+            }
+        },
+        {
+            "Record#": 75,
+            "RecorderID": 75,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 252,
+                "temperature": 19,
+                "mouvement": 5373
+            }
+        },
+        {
+            "Record#": 76,
+            "RecorderID": 76,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 292,
+                "temperature": 20,
+                "mouvement": 2481
+            }
+        },
+        {
+            "Record#": 77,
+            "RecorderID": 77,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 183,
+                "temperature": 17,
+                "mouvement": 1797
+            }
+        },
+        {
+            "Record#": 78,
+            "RecorderID": 78,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 186,
+                "temperature": 17,
+                "mouvement": 2557
+            }
+        },
+        {
+            "Record#": 79,
+            "RecorderID": 79,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 133,
+                "temperature": 19,
+                "mouvement": 4154
+            }
+        },
+        {
+            "Record#": 80,
+            "RecorderID": 80,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 292,
+                "temperature": 18,
+                "mouvement": 7082
+            }
+        },
+        {
+            "Record#": 81,
+            "RecorderID": 81,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 134,
+                "temperature": 16,
+                "mouvement": 6331
+            }
+        },
+        {
+            "Record#": 82,
+            "RecorderID": 82,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 256,
+                "temperature": 16,
+                "mouvement": 5826
+            }
+        },
+        {
+            "Record#": 83,
+            "RecorderID": 83,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 126,
+                "temperature": 17,
+                "mouvement": 2233
+            }
+        },
+        {
+            "Record#": 84,
+            "RecorderID": 84,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 205,
+                "temperature": 19,
+                "mouvement": 3085
+            }
+        },
+        {
+            "Record#": 85,
+            "RecorderID": 85,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 145,
+                "temperature": 20,
+                "mouvement": 6023
+            }
+        },
+        {
+            "Record#": 86,
+            "RecorderID": 86,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 204,
+                "temperature": 17,
+                "mouvement": 4118
+            }
+        },
+        {
+            "Record#": 87,
+            "RecorderID": 87,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 248,
+                "temperature": 16,
+                "mouvement": 4334
+            }
+        },
+        {
+            "Record#": 88,
+            "RecorderID": 88,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 199,
+                "temperature": 19,
+                "mouvement": 2293
+            }
+        },
+        {
+            "Record#": 89,
+            "RecorderID": 89,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 247,
+                "temperature": 18,
+                "mouvement": 4870
+            }
+        },
+        {
+            "Record#": 90,
+            "RecorderID": 90,
+            "ExpectedType": "depressif",
+            "data": {
+                "luminosite": 235,
+                "temperature": 19,
+                "mouvement": 3637
+            }
+        },
+        {
+            "Record#": 91,
+            "RecorderID": 91,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 447,
+                "temperature": 21,
+                "mouvement": 11591
+            }
+        },
+        {
+            "Record#": 92,
+            "RecorderID": 92,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 249,
+                "temperature": 17,
+                "mouvement": 9379
+            }
+        },
+        {
+            "Record#": 93,
+            "RecorderID": 93,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 470,
+                "temperature": 20,
+                "mouvement": 4819
+            }
+        },
+        {
+            "Record#": 94,
+            "RecorderID": 94,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 288,
+                "temperature": 18,
+                "mouvement": 5174
+            }
+        },
+        {
+            "Record#": 95,
+            "RecorderID": 95,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 227,
+                "temperature": 19,
+                "mouvement": 6993
+            }
+        },
+        {
+            "Record#": 96,
+            "RecorderID": 96,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 429,
+                "temperature": 24,
+                "mouvement": 10952
+            }
+        },
+        {
+            "Record#": 97,
+            "RecorderID": 97,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 145,
+                "temperature": 23,
+                "mouvement": 7725
+            }
+        },
+        {
+            "Record#": 98,
+            "RecorderID": 98,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 317,
+                "temperature": 19,
+                "mouvement": 7132
+            }
+        },
+        {
+            "Record#": 99,
+            "RecorderID": 99,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 487,
+                "temperature": 21,
+                "mouvement": 5144
+            }
+        },
+        {
+            "Record#": 100,
+            "RecorderID": 100,
+            "ExpectedType": "alea",
+            "data": {
+                "luminosite": 338,
+                "temperature": 17,
+                "mouvement": 6414
+            }
+        }
+    ]
+}
