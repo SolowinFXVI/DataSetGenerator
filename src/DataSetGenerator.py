@@ -73,7 +73,7 @@ def single_normal_record(dataset, iteration):
     dataset += '{'
     dataset += record_number_str + str(iteration) + comma_str
     dataset += recorder_ID_str + str(iteration) + comma_str
-    dataset += expected_type_str + '"anxieux"' + comma_str
+    dataset += expected_type_str + '"normal"' + comma_str
     dataset += data_str + '{'
     dataset += luminosite_str + str(get_luminosite(luminosite_normal_lower, luminosite_normal_upper)) + comma_str
     dataset += temperature_str + str(get_temperature(temperature_normal_lower, temperature_normal_upper)) + comma_str
@@ -94,7 +94,6 @@ def single_alea_record(dataset, iteration):
     dataset += '}}'
     return dataset
 
-#TODO desordonner les records
 def mixer(dataset):
     iterations = 1
 
