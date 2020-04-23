@@ -1,0 +1,110 @@
+{
+    "scramble" : false,
+    "numberOfTypes": 4,
+    "numberOfUnits" : 4,
+    "dataTypes" : [
+        {
+            "TypeName": "normal",
+            "percent": 25,
+            "dataUnits" : [
+                {
+                    "unitType": "luminosite",
+                    "lowerLimit" : 200,
+                    "upperLimit": 500
+                },
+                {
+                    "unitType": "temperature",
+                    "lowerLimit" : 19,
+                    "upperLimit": 24
+                },
+                {
+                    "unitType": "mouvement",
+                    "lowerLimit" : 5000,
+                    "upperLimit": 10000
+                },
+                {
+                    "unitType": "test",
+                    "lowerLimit": 325,
+                    "upperLimit": 12321
+                }
+            ]
+        },
+        {
+            "TypeName": "anxieux",
+            "percent" : 30,
+            "dataUnits" : [
+                {
+                    "unitType": "luminosite",
+                    "lowerLimit" : 100,
+                    "upperLimit": 300
+                },
+                {
+                    "unitType": "temperature",
+                    "lowerLimit" : 19,
+                    "upperLimit": 24
+                },
+                {
+                    "unitType": "mouvement",
+                    "lowerLimit" : 6500,
+                    "upperLimit": 12500
+                },
+                {
+                    "unitType": "test",
+                    "lowerLimit": 325,
+                    "upperLimit": 12321
+                }
+            ]
+        },
+        {
+            "TypeName": "depressif",
+            "percent": 30,
+            "dataUnits" : [
+                {
+                    "unitType": "luminosite",
+                    "lowerLimit" : 100,
+                    "upperLimit": 300
+                },
+                {
+                    "unitType": "temperature",
+                    "lowerLimit" : 16,
+                    "upperLimit": 20
+                },
+                {
+                    "unitType": "mouvement",
+                    "lowerLimit" : 0,
+                    "upperLimit": 7500
+                },
+                {
+                    "unitType": "test",
+                    "lowerLimit": 325,
+                    "upperLimit": 12321
+                }
+            ]
+        },        {
+            "TypeName": "special",
+            "percent": 5,
+            "dataUnits" : [
+                {
+                    "unitType": "luminosite",
+                    "lowerLimit" : 100,
+                    "upperLimit": 300
+                },
+                {
+                    "unitType": "temperature",
+                    "lowerLimit" : 16,
+                    "upperLimit": 20
+                },
+                {
+                    "unitType": "mouvement",
+                    "lowerLimit" : 0,
+                    "upperLimit": 7500
+                },
+                {
+                    "unitType": "test",
+                    "lowerLimit": 325,
+                    "upperLimit": 12321
+                }
+            ]
+        }
+    ]
+}
