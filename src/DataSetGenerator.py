@@ -12,27 +12,27 @@ comma_str = ',\n'
 
 file = open('output.json', 'w')
 
-
+#aide pour construire le json.
 def record_begin(dataset):
     dataset = dataset + '{"Content": ['
     return dataset
 
-
+#aide pour construire le json.
 def record_comma(dataset):
     dataset = dataset + ","
     return dataset
 
-
+#aide pour construire le json.
 def record_ending(dataset):
     dataset = dataset + ']}'
     return dataset
 
-
+#partie qui génère les valeurs aléatoires du programme.
 def get_value(lower_range, upper_range):
     value = random.randint(lower_range, upper_range)
     return value
 
-
+#construction json d'un record unique
 def single_record(dataset, iteration, record_type_name, record_type_index, nb_units, json_object):
     dataset += '{'
     dataset += record_number_str + str(iteration) + comma_str
@@ -50,7 +50,7 @@ def single_record(dataset, iteration, record_type_name, record_type_index, nb_un
     dataset += '}}'
     return dataset
 
-
+#détermine la valeur minimum de tout le fichier de configuration pour une mesure donnée, sert pour les personnes aléatoires.
 def min_value(unit_type_index: int, json_object):
     minimum = json_object["dataTypes"][0]["dataUnits"][unit_type_index]["lowerLimit"]
     for j in range(json_object["numberOfTypes"]):
@@ -58,7 +58,7 @@ def min_value(unit_type_index: int, json_object):
             minimum = json_object["dataTypes"][j]["dataUnits"][unit_type_index]["lowerLimit"]
     return minimum
 
-
+#détermine la valeur maximum de tout le fichier de configuration pour une mesure donnée, sert pour les personnes aléatoires.
 def max_value(unit_type_index: int, json_object):
     maximum = json_object["dataTypes"][0]["dataUnits"][unit_type_index]["upperLimit"]
     for j in range(json_object["numberOfTypes"]):
@@ -66,7 +66,7 @@ def max_value(unit_type_index: int, json_object):
             maximum = json_object["dataTypes"][j]["dataUnits"][unit_type_index]["upperLimit"]
     return maximum
 
-
+#construction aléatoire d'un unique record de type aléatoire
 def alea_single_record(dataset, iteration, record_type_name, nb_units, json_object):
     dataset += '{'
     dataset += record_number_str + str(iteration) + comma_str
@@ -83,7 +83,7 @@ def alea_single_record(dataset, iteration, record_type_name, nb_units, json_obje
     dataset += '}}'
     return dataset
 
-
+#charge le fichier de configuration
 def get_input_from_file(filepath):
     fileInput = open(filepath, 'r')
     fileContent = fileInput.read()
@@ -91,16 +91,14 @@ def get_input_from_file(filepath):
     fileInput.close()
     return json_object
 
-
+#détermine le pourcentage des records a faire en aléatoire
 def calculate_nb_alea(records, json_object):
-    #TODO check if percentages add up to 100
     other_records = 0
     for i in range(json_object["numberOfTypes"]):
         other_records += records * (json_object["dataTypes"][i]["percent"] / 100)
-    print("number of other records : " + str(other_records))
     return (records - other_records)
 
-
+#genere tous les records aléatoires
 def alea_records(dataset, json_object, iterations):
     for a in range(int(tirages_alea)):
         dataset = alea_single_record(dataset, iterations, "alea", json_object["numberOfUnits"], json_object)
@@ -108,7 +106,7 @@ def alea_records(dataset, json_object, iterations):
         iterations += 1
     return dataset
 
-
+#construction json de tous les records
 def non_mixed(dataset, json_object):
     iterations = 1
     for i in range(json_object["numberOfTypes"] - 1):
@@ -127,13 +125,12 @@ def non_mixed(dataset, json_object):
     dataset = dataset[:-1]
     return dataset
 
-
+#idée abandonnée pour mélanger les records, perspective d'amélioration
 def mixed(dataset):
-    #TODO
     print("not yet supported")
     return dataset
 
-
+#séparateur si il faut mélanger, abandonné
 def processing(dataset, json_object):
     if json_object["scramble"] == False:
         dataset = non_mixed(dataset, json_object)
